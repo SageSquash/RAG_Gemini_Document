@@ -31,5 +31,3 @@ Acknowledgments
 	•	Gemini: For providing the foundation of retrieval-augmented generation.
 	•	Streamlit: For simplifying interactive UI development.
 	•	Inspiration and support from the open-source community.
-
-Feel free to tweak the content as per your project’s specifics! Let me know if you need help with formatting or additional sections. 😊
